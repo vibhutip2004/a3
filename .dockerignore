@@ -1,0 +1,7 @@
+# Keep secrets and local junk out of the image
+.env
+.git
+venv/
+__pycache__/
+*.pyc
+tasks.db
